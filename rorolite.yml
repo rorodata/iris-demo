@@ -1,0 +1,16 @@
+#
+# rorolite config file
+# The rorolite command uses this file to find out what to deploy and where to deploy.
+#
+runtime: python3
+
+# hostname/ip of your remote server
+host: iris.do.rorodata.net
+# user name on the remote server
+user: anand
+
+services:
+    - name: api
+      function: predict.predict
+      port: 80
+
