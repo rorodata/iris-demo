@@ -15,3 +15,7 @@ This application uses the famous [iris dataset][iris] to create a decision tree 
 *Pictures are from the [wikipedia page][iris], CC BY-SA.*
 
 See the [notebook](iris.ipynb) to get started.
+
+## Deploy with rorodata button
+
+[![Deploy to rorodata](https://s3.amazonaws.com/assets.rorodata.com/buttons/deploy.png)](https://dashboard.rorodata.com/projects/new?template=https://github.com/rorodata/iris-demo)
